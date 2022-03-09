@@ -1,0 +1,141 @@
+.container{
+    background-color: #484b4d;
+    padding:0;
+    color: #fff;
+    padding-bottom:30px;
+    min-height: 100%;
+}
+
+body{
+    background-color: #e79800;
+}
+
+.wrapForma{
+    width:60% !important;
+    margin:auto;
+    padding:20px;
+    margin-top:20px;
+    padding-bottom:20px;
+    background-color: #ababab;
+    border-radius: 10px;
+}
+.wrap{
+    width:60% !important;
+    margin:auto;
+    padding:20px;
+    margin-top:20px;
+}
+
+.org{
+    background-color: #e79800;
+    border:0;
+}
+.org:hover{
+    background-color: #e78800;
+    border:0;
+}
+.linkoviForme{
+    color: #484b4d;
+    font-weight: 500;
+}
+.linkoviForme:hover{
+    color: #222222;
+}
+.hidden{
+    display:none;
+}
+.desno{
+    float:right !important;
+}
+.regNaslov{
+    padding-bottom: 20px;
+}
+.wrap80{
+    width:80% !important;
+    margin:auto !important;
+}
+.nobgc{
+    background-color: inherit;
+}
+
+.beliLinkovi:link, .beliLinkovi:visited{
+    color:#ffffff !important;
+
+}
+th.bezGornjeIvice{
+    border-top: 0 !important;
+}
+.belaslova{
+    color:white;
+}
+
+.odaljiGore{
+    padding-top:20px;
+}
+.centar{
+    text-align: center;
+    align-self: center;
+    margin: auto;
+}
+.sirina25p{
+    width:25% !important;
+}
+
+.velikaSlova{
+    font-size: large !important;
+}
+.sirina40p{
+    width:40% !important;
+    margin:auto;
+}
+
+.dolePad{
+    padding-bottom: 10px;
+}
+.crveniLink{
+    color:#dc3545 !important;
+}
+.zeleno{
+    color:#28a745 !important;
+}
+.nemaGornju{
+    border-top: 0 !important;
+}
+.tekst90d{
+    text-align: center !important;
+}
+.tekst90{
+    writing-mode: vertical-lr !important; 
+    transform: rotate(180deg) !important; 
+}
+.brl{
+    border-left: 1px !important;
+    border-left-style: solid !important;
+    border-left-color: #32383e !important;
+
+
+}
+
+.gd{
+    padding-top: 10px !important;
+    padding-right: 10px !important;
+}
+
+.trecina{
+    width: 33% !important;
+}
+
+.stotka{
+    width:100% !important;
+}
+
+.plutajLevo{
+    float: left !important;
+}
+.ld20{
+    margin-right: 20px !important;
+    margin-left: 20px !important;
+}
+.okruglaSlika{
+    border-radius: 50% !important;
+}
